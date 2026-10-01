@@ -1,0 +1,113 @@
+==================================================
+KNOWLEDGE BASE & DETAIL PRODUK DIGITAL (FOR CS TELEGRAM)
+==================================================
+
+--------------------------------------------------
+1. DETAIL PRODUK: PRD-001
+--------------------------------------------------
+[NAMA PRODUK]
+Template Workspace Notion All-in-One
+
+[STATUS PRODUK]
+Best Seller (Terjual 1.420+ unit | Rating 4.9/5.0)
+
+[DESKRIPSI]
+Sistem dan panduan manajemen waktu, tugas, serta aktivitas belajar yang sangat intuitif, teratur, dan mudah digunakan dalam satu dashboard Notion.
+
+[HARGA]
+Harga Normal : Rp 150.000
+Harga Promo  : Rp 99.000 (Hemat 34%)
+Status Promo : Aktif (Diskon 34%)
+
+[KELEBIHAN PRODUK]
+- Akses seumur hidup (sekali bayar, tanpa biaya bulanan).
+- Struktur workspace teruji untuk meningkatkan produktivitas harian.
+- Bonus eksklusif: Template Habit Tracker terintegrasi secara gratis.
+- Mudah disesuaikan (customizable) sesuai kebutuhan pengguna.
+
+[TESTIMONI PELANGGAN]
+1. "Baru pertama kali nemu template Notion serapi ini. Alur manajemen tugas dan belajarnya jelas banget, simpel tapi efisien!" — Rian S.
+2. "Worth it banget dengan harga segini dapet akses seumur hidup plus bonus habit tracker. CS-nya juga responsif banget diajarin cara pakainya." — Amanda T.
+3. "Jujur ini ngebantu banget buat ngatur jadwal kuliah dan kerjaan side-job aku. Tampilannya clean dan gak bikin pusing!" — Clarissa M.
+4. "Fitur habit tracker-nya juara sih, bikin konsisten bangun kebiasaan baru tiap hari. Recomended banget!" — Fajar Nugraha
+5. "Proses klaim aksesnya super cepat via Telegram, hitungan menit template langsung bisa dipakai di akun Notion saya." — Nadia P.
+
+
+--------------------------------------------------
+2. DETAIL PRODUK: PRD-002
+--------------------------------------------------
+[NAMA PRODUK]
+Akses E-Course Full-Stack Web Dev
+
+[STATUS PRODUK]
+High Demand (Terjual 680+ unit | Rating 4.9/5.0)
+
+[DESKRIPSI]
+Program pembelajaran menyeluruh Full-Stack Web Development dari dasar hingga mahir, dirancang khusus untuk pemula hingga tingkat menengah.
+
+[HARGA]
+Harga Normal : Rp 50.000
+Harga Promo  : Rp 25.000 (Flash Sale)
+Status Promo : Aktif (Diskon 50%)
+
+[KELEBIHAN PRODUK]
+- Akses seumur hidup tanpa biaya langganan bulanan.
+- Garansi update materi berkala mengikuti perkembangan teknologi web terbaru.
+- Fitur materi super lengkap dan terstruktur dari frontend hingga backend.
+- Harga sangat terjangkau dengan investasi keahlian jangka panjang.
+
+[TESTIMONI PELANGGAN]
+1. "Materi e-course-nya runtut dan gampang dipahami buat pemula kayak saya. Dapet garansi update materi terus lagi!" — Budi Santoso
+2. "Promo 25rb dapet materi Full-Stack selengkap ini beneran ga rugi. Investasi leher ke atas paling berharga!" — Diki A.
+3. "Penjelasan di videonya to the point, gak bertele-tele. Studi kasus pembelajarannya juga relevan sama kebutuhan industri sekarang." — Rizky Pratama
+4. "Awalnya ragu karena harganya murah banget, pas dicek modulnya ternyata daging semua. Ga nyesel ambil pas flash sale!" — Hendky
+5. "Suka banget karena begitu ada modul baru langsung dapet update gratis tanpa perlu bayar lagi. Mantap min!" — Sinta Dewi
+
+
+--------------------------------------------------
+3. DETAIL PRODUK: PRD-003
+--------------------------------------------------
+[NAMA PRODUK]
+Lisensi Cloud Storage Team (1 Tahun)
+
+[STATUS PRODUK]
+Trending - Stok Terbatas (Terjual 450+ unit | Rating 4.8/5.0)
+
+[DESKRIPSI]
+Solusi penyimpanan cloud tingkat tim berkinerja tinggi yang dilengkapi fasilitas dukungan teknis dan pendampingan otomatisasi sistem.
+
+[HARGA]
+Harga Normal : Rp 300.000
+Harga Promo  : Rp 300.000 (Harga Reguler)
+Status Promo : Tidak Ada
+
+[KELEBIHAN PRODUK]
+- Didampingi penuh oleh tim teknis sampai bot/sistem berjalan sempurna.
+- Termasuk fasilitas Konsultasi 1-on-1 untuk setup otomatisasi n8n.
+- Solusi penyimpanan aman dan stabil untuk kebutuhan kolaborasi tim.
+- Dukungan prioritas CS untuk kendala teknis harian.
+
+[TESTIMONI PELANGGAN]
+1. "Sangat terbantu sama pendampingannya! Dibimbing konsultasi 1-on-1 setup n8n sampai bot benar-benar running tanpa kendala." — Kevin M. (Lead Dev)
+2. "Penyimpanan tim aman dan stabil. Plus poin utamanya ada di layanan konsultasi teknisnya yang sangat kooperatif." — Wahyu P.
+3. "Tim kami yang awalnya buta teknis n8n langsung terbantu banget karena dikasih pendampingan langsung sama mas tim teknisnya." — Denny K. (Agency Owner)
+4. "Akses cloud cepat, alokasi ruang penyimpanan lega, dan support CS-nya beneran ramah dan responsif saat diajak diskusi." — Maya Indriani
+5. "Investasi terbaik buat workflow agensi kami tahun ini. Proses setup cepat dan didampingi step-by-step sampai paham." — Farhan A.
+
+
+==================================================
+PEMBAYARAN & CARA PESAN
+==================================================
+
+[METODE BAYAR]
+• Bank : BCA, Mandiri, BNI, BRI
+• E-Wallet : GoPay, OVO, DANA, ShopeePay
+• QRIS : Semua aplikasi (QRIS Instant)
+
+[CARA PESAN]
+
+Halo Kak! Boleh bantu isi data pemesanan di bawah ini ya:
+
+Mohon info untuk Nama Lengkap, Alamat Email, Nomor HP/WA, Nama Produk yang ingin dibeli, serta Pilihan Pembayaran yang akan digunakan.
+
+Setelah diisi, kirimkan kembali ke sini ya Kak agar pesanan bisa langsung kami proses. Terima kasih!

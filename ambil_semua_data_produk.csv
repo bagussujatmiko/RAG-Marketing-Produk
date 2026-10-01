@@ -1,0 +1,4 @@
+ID_Produk,Nama_Produk,Kategori,Harga_Normal,Harga_Promo,Status_Promo,Stok_Status,Total Terjual,Rating,Deskripsi_Singkat,Keunggulan_Utama,Status
+PRD-001,Template Workspace Notion All-in-One,Digital,Rp150.000,Rp99.000,Aktif (Diskon 34%),Tersedia,1.420 unit,4.9 / 5.0,Panduan manajemen waktu & belajar,Akses seumur hidup tanpa bulanan + Bonus template habit tracker,Best Seller
+PRD-002,Akses E-Course Full-Stack Web Dev,Digital,Rp50.000,Rp25.000,Aktif (Flash Sale),Tersedia,680 unit,4.9 / 5.0,Fitur lengkap + garansi update,Akses seumur hidup tanpa bulanan,High Demand
+PRD-003,Lisensi Cloud Storage Team (1 Tahun),Digital,Rp300.000,Rp300.000,Tidak Ada,Terbatas,450 unit,4.8 / 5.0,Konsultasi 1-on-1 setup n8n,Pendampingan sampai bot jalan,Trending
